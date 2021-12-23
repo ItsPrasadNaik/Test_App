@@ -1,0 +1,9 @@
+I have Created Online Test App which consist of Login, Welcome and Test sections pages.
+1.In Login Page it will ask login username and Password and Once logining in it will move to the welcome page.
+2.In welcome page, it contains test rules and and user need to give his/her name and click on start quiz button.
+3.In Test Sectional Page, There are 4 section present, namely Angular,Java,Html and Javascript. User need to click on the 
+test icon to take the particular test section. 
+4.For every question 60sec of time is given if the user not able to answer it will moved to next question and no points
+are given.
+5.After Every section gets completed, the app shows the number of correct answers, incorrect answers and the total score.
+ask user to move to next section or to test main Section.
